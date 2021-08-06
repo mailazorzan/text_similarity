@@ -1,2 +1,2 @@
 # text_similarity
-Text Similarity Kaggle Competition
+Text Similarity from Quora Question in a Kaggle Competition
